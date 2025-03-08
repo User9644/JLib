@@ -4,9 +4,9 @@ A simple Java Library.
 
 ## Table of Content
 
-- [JLib](#jlib)
-- [Table of Content](#table-of-content)
-- [Structure](#structure)
+1. [JLib](#jlib)
+2. [Table of Content](#table-of-content)
+3. [Structure](#structure)
 
 ## Structure
 
@@ -21,16 +21,16 @@ This structure only includes public classes.
     - Session
   - ws
     - WSServer
-    - Exchange
-    - Request
-    - Response
+    - Exchange ?
+    - Request ?
+    - Response ?
 - sgl
   - Graphics
   - Color
   - Font
-  - Point
-  - Vector
-  - Rectangle
+  - Point :
+  - Vector :
+  - Rectangle :
   - StringDrawer
   - Window
   - window
@@ -52,7 +52,9 @@ This structure only includes public classes.
   - File
   - Path
 - utils
-  - DoubleValue
-  - DoubleMap
+  - Resources
+  - StringBuilder :
+  - DoubleValue :
+  - DoubleMap :
   - TableList
   - StringEditor
